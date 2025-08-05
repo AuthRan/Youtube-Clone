@@ -60,3 +60,7 @@ It mimics the structure and layout of YouTube's desktop UI, including the top he
 │   ├── videos.css       # Video grid styles
 │   └── general.css      # Base and global styles
 └── youtube.html         # Main HTML file
+
+```
+## Note
+It doesn't contain any Js because I just wanted to practice/sharpen my HTML and CSS skills.
