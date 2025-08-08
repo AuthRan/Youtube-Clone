@@ -64,3 +64,4 @@ It mimics the structure and layout of YouTube's desktop UI, including the top he
 ```
 ## Note
 It doesn't contain any Js because I just wanted to practice/sharpen my HTML and CSS skills.
+Later on I added Mediaqueries to make it interactive with different interface as well without using Tailwind CSS
